@@ -1,0 +1,127 @@
+| 179 | 123              | 123    | 123                                                |    4 |    0 |    0 |       |         |   0 |
+|  36 | abeck3           | 90330  | manufacturing                                      |   60 |   13 |   47 | ?     | ?       |   0 |
+|  37 | abeck3           | 80027  | manufacturing                                      |   65 |   65 |    0 | ?     |         |   0 |
+|  71 | ajaunzemis3      | 84508  | AE 4310                                            |   50 |   50 |    0 | ?     |         |   0 |
+|  12 | betsy            | 89724  | Engr ethics                                        |   35 |   35 |    0 | ?     |         |   0 |
+|  63 | betsy            | 89724  | engr ethics 2                                      |   35 |   35 |    0 | ?     |         |   0 |
+|  39 | bwood8           | 87873  | ISYE 3103                                          |   75 |   75 |    0 | ?     |         |   0 |
+|  38 | bwood8           | 80685  | ISYE3039                                           |   10 |    0 |    0 | ?     |         |   0 |
+|  77 | cegt             | 80301  | CEE Materials                                      |   13 |   13 |    0 | ?     |         |   0 |
+|  78 | cegt             | 81581  | Health                                             |   50 |   50 |    0 | ?     |         |   0 |
+|  11 | Chris            | 82731  | Sytesms                                            |   50 |   21 |   29 | ?     | ?       |   0 |
+| 113 | coachpatato      | 53716  | ECE                                                |   35 |   35 |    0 | ?     |         |   1 |
+| 111 | coachpatato      | 87874  | I dont remember but get it.                        |   70 |   68 |    2 | ?     | ?       |   0 |
+| 162 | crab             | 81590  | CS 4400 T TU                                       |   75 |   75 |    0 | ?     |         |   0 |
+| 161 | crab             | 82217  | MGT 3300 Citrin                                    |   60 |   60 |    0 | ?     |         |   0 |
+| 163 | crab             | 82163  | 9:30 PSYC 1101                                     |   60 |   60 |    0 | ?     |         |   0 |
+| 164 | crab             | 82564  | MGT 3300 9:30                                      |   60 |   60 |    0 | ?     |         |   0 |
+|   6 | egger100         | 55413  | LCC 3403                                           |   23 |   23 |    0 | ?     |         |   1 |
+| 136 | eseligsohn       | 80017  | ME 2016 Computing Techniques                       |   65 |   65 |    0 | ?     |         |   0 |
+| 138 | eseligsohn       | 80985  | ECE 3710 Circuits and Electronics 4:30             |   40 |   40 |    0 | ?     |         |   0 |
+| 139 | eseligsohn       | 80988  | ECE 3710 Circuits and Electronics 6:00             |   40 |   40 |    0 | ?     |         |   0 |
+| 119 | gochoa           | 53253  | Fluids Part 2                                      |   80 |   73 |    7 | ?     | ?       |   1 |
+| 118 | gochoa           | 86949  | Heat Transfer                                      |   75 |   75 |    0 | ?     |         |   0 |
+| 120 | gremsi26         | 80286  |                                                    |   60 |   60 |    0 |       |         |   0 |
+|  51 | iann             | 89745  | 4067                                               |   46 |   46 |    0 | ?     |         |   0 |
+|  43 | iannorris        | 89745  | 4067                                               |   46 |   46 |    0 | ?     |         |   0 |
+| 131 | inmyopinion      | 81907  | ece2040@12                                         |   35 |   35 |    0 | ?     |         |   0 |
+| 129 | inmyopinion      | 80720  | isye3770                                           |   25 |    0 |    0 | ?     |         |   0 |
+| 133 | inmyopinion      | 83608  | ece3076@11                                         |   54 |   53 |    1 | ?     | ?       |   0 |
+| 134 | inmyopinion      | 90164  | ece3020                                            |   30 |   30 |    0 | ?     |         |   0 |
+| 130 | inmyopinion      | 80880  | ece2040@11                                         |   35 |   35 |    0 | ?     |         |   0 |
+| 115 | itzworm          | 54487  | ECE 2040                                           |   30 |   30 |    0 | ?     |         |   1 |
+| 158 | jblaeser         | 82739  | High Speed                                         |   45 |   45 |    0 | ?     |         |   0 |
+| 159 | jlongenecker3    | 85343  | ME 3180                                            |   70 |   70 |    0 | ?     |         |   0 |
+| 160 | jlongenecker3    | 84606  | ME 3057                                            |   12 |   12 |    0 |       |         |   0 |
+| 110 | Jmtjji           | 80024  | Heat transfer                                      |   70 |   70 |    0 | ?     |         |   0 |
+| 171 | JoshuaTerrell    | 80023  | Fluids Better Time                                 |   75 |   75 |    0 | ?     |         |   0 |
+| 172 | JoshuaTerrell    | 84039  | Fluids Better Time                                 |   70 |   70 |    0 | ?     |         |   0 |
+|  72 | jsford94         | 80908  | 2040 Circuit Analysis 80908                        |   35 |   35 |    0 | ?     |         |   0 |
+|  75 | jsford94         | 81907  | 2040 Circuit Analysis 81907                        |   35 |   35 |    0 | ?     |         |   0 |
+|  74 | jsford94         | 80880  | 2040 Circuit Analysis 80880                        |   35 |   35 |    0 | ?     |         |   0 |
+|  70 | jsford94         | 90049  | 2035 Programming HW/SW                             |   30 |   30 |    0 | ?     |         |   0 |
+| 122 | kavyamk          | 87980  | Health                                             |   50 |   50 |    0 |       |         |   0 |
+| 123 | kavyamk          | 83940  | BMED 2210                                          |   32 |   32 |    0 |       |         |   0 |
+| 121 | kavyamk          | 85836  | BMED 3100                                          |   60 |   60 |    0 |       |         |   0 |
+| 124 | kavyamk          | 82435  | BMED 2300                                          |   32 |   32 |    0 |       |         |   0 |
+| 141 | KGRP_ISYE        | 80680  | ISYE 2028 A                                        |   75 |   75 |    0 | ?     |         |   0 |
+| 147 | KGRP_ISYE        | 81876  | EAS Lab                                            |    6 |    0 |    0 | ?     |         |   0 |
+| 149 | KGRP_ISYE        | 81863  | EAS Perfect Time                                   |   30 |    0 |    0 | ?     |         |   0 |
+|  92 | klee395          | 86185  | BMED 3100                                          |    0 |    0 |    0 | ?     |         |   0 |
+|  91 | klee395          | 83863  | BMED 2210                                          |    0 |    0 |    0 | ?     |         |   0 |
+|  90 | klee395          | 83938  | BMED 2210                                          |    0 |    0 |    0 | ?     |         |   0 |
+| 157 | krowefosho       | 80299  | Geomatics                                          |   18 |   18 |    0 | ?     |         |   0 |
+| 156 | krowefosho       | 89611  | Def Bods                                           |   50 |   50 |    0 | ?     |         |   0 |
+| 150 | laziboix         | 85941  | L01                                                |   40 |   40 |    0 | ?     |         |   0 |
+|  55 | ldenham3         | 80286  | Networking                                         |   60 |   60 |    0 | ?     |         |   0 |
+|  56 | ldenham3         | 83096  | Algorithms                                         |   40 |   40 |    0 | ?     |         |   0 |
+|  54 | ldenham3         | 83948  | CS3240                                             |   75 |   75 |    0 | ?     |         |   0 |
+|  76 | lletson3         | 90172  | COE 2001                                           |   42 |   41 |    1 | ?     | ?       |   0 |
+|  58 | lmitchell31      | 81904  | HTS                                                |   35 |   35 |    0 | ?     |         |   0 |
+|  59 | lmitchell31      | 90030  | ECE                                                |   18 |   18 |    0 | ?     |         |   0 |
+|  62 | lmitchell31      | 90029  | ECE                                                |    0 |    0 |    0 | ?     |         |   0 |
+| 181 | lpeng32          | 80975  | Applied Combin                                     |   50 |   50 |    0 | ?     |         |   0 |
+| 180 | lpeng32          | 89981  | Evolution&Industrial Age                           |   30 |   30 |    0 | ?     |         |   0 |
+|  31 | Miles            | 87414  | Electro                                            |   35 |   35 |    0 | ?     |         |   0 |
+|  30 | Miles            | 88058  | Rad. Detection Mon                                 |   21 |   21 |    0 | ?     |         |   0 |
+|  32 | Miles            | 88059  | Rad. Detection Wed                                 |   21 |   21 |    0 | ?     |         |   0 |
+|  94 | Moragor          | 82739  | Sankar High Speed                                  |   45 |   45 |    0 | ?     |         |   0 |
+|  99 | Moragor          | 82177  | Costello Flight Dynamics                           |   45 |   45 |    0 | ?     |         |   0 |
+| 152 | nkhlgeorge       | 80020  | Thermo-Ghiaassian                                  |   60 |   60 |    0 | ?     |         |   0 |
+| 151 | nkhlgeorge       | 82329  | ECE 3710-8 am                                      |   40 |   40 |    0 | ?     |         |   0 |
+| 109 | palexander6      | 86928  | System Dynamics and Control                        |   65 |   65 |    0 | ?     |         |   0 |
+| 125 | pmccarty3        | 87414  | Electrogmagnetics                                  |   35 |   35 |    0 | ?     |         |   0 |
+| 126 | pmccarty3        | 80912  | electromagnetics                                   |   35 |   35 |    0 | ?     |         |   0 |
+| 117 | pschnaak         | 90143  | LCC                                                |   25 |   26 |   -1 | ?     |         |   0 |
+| 116 | pschnaak         | 80492  | Synth Lab                                          |   30 |   30 |    0 | ?     |         |   0 |
+|  66 | ramwilliford     | 86248  | 4007                                               |   10 |    0 |    0 | ?     |         |   0 |
+|  49 | ramwilliford     | 85938  | 4001 (2)                                           |   40 |   40 |    0 | ?     |         |   0 |
+|  65 | ramwilliford     | 85940  | 4007                                               |   12 |    0 |    0 | ?     |         |   0 |
+|  48 | ramwilliford     | 85937  | 4001                                               |   45 |   45 |    0 | ?     |         |   0 |
+|  50 | ramwilliford     | 85939  | 4001 (3)                                           |   45 |   45 |    0 | ?     |         |   0 |
+|  52 | ramwilliford     | 80891  | 3055                                               |    0 |    0 |    0 | ?     |         |   0 |
+|  44 | ramwilliford     | 85369  | Biomed Inst                                        |   35 |   35 |    0 | ?     |         |   0 |
+|  95 | rduan8           | 80908  | 2040 TR (harder)                                   |   35 |   35 |    0 | ?     |         |   0 |
+|  96 | rduan8           | 80880  | 2040 MWF                                           |   35 |   35 |    0 | ?     |         |   0 |
+| 108 | rduan8           | 88492  | Diff Eq Test                                       |   35 |   11 |   24 |       |         |   0 |
+| 143 | rwan6            | 90164  | 3020                                               |   30 |   30 |    0 | ?     |         |   0 |
+| 140 | rwan6            | 90198  | ECE Stats                                          |   45 |   45 |    0 | ?     |         |   0 |
+| 144 | rwan6            | 80880  | 2040                                               |   35 |   35 |    0 | ?     |         |   0 |
+|  81 | sanyog           | 86649  | Math                                               |   35 |   12 |   23 |       |         |   0 |
+|  83 | sanyog           | 84487  | Physics Lab                                        |   24 |    6 |    8 |       |         |   0 |
+|  89 | sanyog           | 82435  | Problems in BME 2                                  |   32 |   32 |    0 |       |         |   0 |
+|  87 | sanyog           | 90190  | Statics 2                                          |   42 |    8 |    4 |       |         |   0 |
+|  82 | sanyog           | 85991  | Physics                                            |   40 |   17 |   23 |       |         |   0 |
+|  86 | sanyog           | 89937  | Problems in BME                                    |   32 |   32 |    0 |       |         |   0 |
+|  85 | sanyog           | 86185  | Systems Physiology                                 |    0 |    0 |    0 |       |         |   0 |
+|  84 | sanyog           | 90172  | Statics                                            |   42 |   41 |    1 |       |         |   0 |
+|  88 | sanyog           | 85836  | Systems Physiology 2                               |   60 |   60 |    0 |       |         |   0 |
+| 102 | schmeccles       | 85830  | Modeling                                           |   30 |    0 |    0 |       |         |   0 |
+| 106 | seven            | 83939  | Conservation Prin in BME                           |   32 |   32 |    0 | ?     |         |   0 |
+| 107 | seven            | 83940  | Conservation Prin in BME                           |   32 |   32 |    0 | ?     |         |   0 |
+| 165 | shinyeyes        | 81904  | HTS                                                |   35 |   35 |    0 | ?     |         |   0 |
+| 166 | shinyeyes        | 82477  | Health                                             |   50 |   50 |    0 | ?     |         |   0 |
+|  47 | sjang1123        | 81907  | 2040 !!!!!!!                                       |   35 |   35 |    0 | ?     |         |   0 |
+|  46 | sjang1123        | 80880  | 2040 with Jiang                                    |   35 |   35 |    0 | ?     |         |   0 |
+|  45 | sjang1123        | 80908  | 2040                                               |   35 |   35 |    0 | ?     |         |   0 |
+|  40 | snihalani        | 86708  | Senior Design                                      |   44 |   44 |    0 | ?     |         |   0 |
+|  42 | snihalani        | 90074  | ECE 4185 B                                         |   35 |   35 |    0 | ?     |         |   0 |
+|  41 | snihalani        | 90073  | ECE 4185                                           |   35 |   35 |    0 | ?     |         |   0 |
+| 167 | sofiatuttle      | 82434  | BMED B                                             |   32 |   32 |    0 | ?     |         |   0 |
+| 168 | sofiatuttle      | 82435  | BMED C                                             |   32 |   32 |    0 | ?     |         |   0 |
+|  57 | srackley6        | 54147  | MSE 2001 B                                         |   75 |   75 |    0 | ?     |         |   1 |
+| 146 | sswanson7        | 81163  | good thermo                                        |   35 |   35 |    0 | ?     |         |   0 |
+| 145 | sswanson7        | 81165  | good transport                                     |   40 |   40 |    0 | ?     |         |   0 |
+|  53 | steve            | 86301  | stats                                              |   50 |   50 |    0 | ?     |         |   0 |
+| 153 | stighe3          | 54147  | MSE 2001 Principles and Applications of Materials  |   75 |   75 |    0 | ?     |         |   1 |
+| 155 | stighe3          | 83862  | COE 3001 Def Bods                                  |   50 |   50 |    0 |       |         |   0 |
+| 154 | stighe3          | 84398  | COE 3001 Def Bods                                  |   50 |   50 |    0 | ?     |         |   0 |
+| 103 | testpercentdummy | 52243  | COE 3001                                           |   55 |   55 |    0 | ?     |         |   1 |
+| 114 | testpercentdummy | 84016  | COE 3001 fall                                      |   42 |   42 |    0 | ?     |         |   0 |
+| 104 | testpercentdummy | 84471  | MSE 4751                                           |    5 |    0 |    0 | ?     |         |   0 |
+| 128 | TheBort          | 84067  | Jet Pro                                            |   50 |   50 |    0 | ?     |         |   0 |
+| 127 | TheBort          | 80465  | Fluids Lab                                         |   10 |   10 |    0 | ?     |         |   0 |
+| 178 | thu              | 84532  | UI software                                        |   10 |   10 |    0 | ?     |         |   0 |
+|  80 | tmccrary6        | 89693  | MSE 3001                                           |   60 |   56 |    4 | ?     | ?       |   0 |
+|  29 | xCruise          | 50443  | ISYE 3770                                          |   95 |   95 |    0 | ?     |         |   1 |
+|  28 | xCruise          | 86949  | Heat Transfer                                      |   75 |   75 |    0 | ?     |         |   0 |
